@@ -61,6 +61,9 @@ gem 'rserve-client', '~> 0.3.1'
 gem 'rspec', '~> 3.4'
 gem 'rb-gsl', '~> 1.16', '>= 1.16.0.6'
 gem 'daru', '~> 0.1.1'
+
+# heroku gems
+
 gem 'rails_12factor', group: :production
 
 
