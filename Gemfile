@@ -56,3 +56,15 @@ gem 'rspec', '~> 3.4'
 gem 'rb-gsl', '~> 1.16', '>= 1.16.0.6'
 gem 'daru', '~> 0.1.1'
 gem 'rails_12factor', group: :production
+
+
+# daru dependencies
+gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
+gem 'prawn-svg', '~> 0.9.1'
+gem 'css_parser', '~> 1.4', '>= 1.4.1'
+gem 'clbustos-rtf', '~> 0.4.0'
+gem 'text-table', '~> 1.2', '>= 1.2.4'
+gem 'spreadsheet', '~> 1.1', '>= 1.1.2'
+gem 'ruby-ole', '~> 1.2', '>= 1.2.12'
+
+gem 'rake-compiler', '~> 0.9.7'
