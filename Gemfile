@@ -59,7 +59,9 @@ gem 'daru', '~> 0.1.1'
 gem 'rails_12factor', group: :production
 
 
-
+# gsl
+gem 'cucumber', '~> 2.3', '>= 2.3.3'
+gem 'test-unit', '~> 3.1', '>= 3.1.8'
 # daru dependencies
 
 gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
