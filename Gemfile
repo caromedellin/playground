@@ -43,6 +43,11 @@ group :development do
   gem 'spring'
 end
 
+# gsl
+gem 'cucumber', '~> 2.3', '>= 2.3.3'
+gem 'test-unit', '~> 3.1', '>= 3.1.8'
+gem 'gsl', '~> 2.1'
+
 gem 'bundler', '~> 1.11', '>= 1.11.2'
 gem 'awesome_print', '~> 1.6', '>= 1.6.1'
 gem 'distribution', '~> 0.7.3'
@@ -53,15 +58,12 @@ gem 'pry-byebug', '~> 3.3'
 gem 'rake', '~> 11.1', '>= 11.1.2'
 gem 'rserve-client', '~> 0.3.1'
 gem 'rspec', '~> 3.4'
-gem 'gsl', '~> 2.1'
 gem 'rb-gsl', '~> 1.16', '>= 1.16.0.6'
 gem 'daru', '~> 0.1.1'
 gem 'rails_12factor', group: :production
 
 
-# gsl
-gem 'cucumber', '~> 2.3', '>= 2.3.3'
-gem 'test-unit', '~> 3.1', '>= 3.1.8'
+
 # daru dependencies
 
 gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
