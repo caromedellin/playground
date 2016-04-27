@@ -59,6 +59,7 @@ gem 'daru', '~> 0.1.1'
 gem 'rails_12factor', group: :production
 
 
+
 # daru dependencies
 
 gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
