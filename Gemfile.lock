@@ -209,6 +209,7 @@ DEPENDENCIES
   css_parser (~> 1.4, >= 1.4.1)
   daru (~> 0.1.1)
   distribution (~> 0.7.3)
+  gsl (~> 2.1)
   jbuilder (~> 2.0)
   jquery-rails
   nmatrix (~> 0.2.1)

@@ -53,12 +53,14 @@ gem 'pry-byebug', '~> 3.3'
 gem 'rake', '~> 11.1', '>= 11.1.2'
 gem 'rserve-client', '~> 0.3.1'
 gem 'rspec', '~> 3.4'
+gem 'gsl', '~> 2.1'
 gem 'rb-gsl', '~> 1.16', '>= 1.16.0.6'
 gem 'daru', '~> 0.1.1'
 gem 'rails_12factor', group: :production
 
 
 # daru dependencies
+
 gem 'reportbuilder', '~> 1.4', '>= 1.4.2'
 gem 'prawn-svg', '~> 0.9.1'
 gem 'css_parser', '~> 1.4', '>= 1.4.1'
